@@ -1,2 +1,6 @@
 one piece
+<<<<<<< HEAD
 narco. .
+=======
+narco .. .
+>>>>>>> Hollywood
